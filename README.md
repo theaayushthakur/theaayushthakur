@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Aayush Thakur's GitHub Profile" style="width:100%; height:auto;">
+
 <h1 align="center">Hi 👋, I'm Aayush Thakur</h1>
 <h3 align="center">Learning Web Development | Python | Chess | Blogger | YouTuber</h3>
 
